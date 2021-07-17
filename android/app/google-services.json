@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312467460073",
+    "firebase_url": "https://classagemgm-default-rtdb.firebaseio.com",
+    "project_id": "classagemgm",
+    "storage_bucket": "classagemgm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312467460073:android:def768192739e2d8130578",
+        "android_client_info": {
+          "package_name": "com.myedumeet.classage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312467460073-1v1p4m0liip5rr0o99pqbj0ge4e8u8pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myedumeet.classage",
+            "certificate_hash": "002805c96cb4f692ef83b1e3b82a13599cc22b48"
+          }
+        },
+        {
+          "client_id": "312467460073-k9o2nqusfbmp9sb7d6fgc5fgsg6959f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz5XB3bozSRzfULMKOIkfHsMbvXlAIjUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312467460073-k9o2nqusfbmp9sb7d6fgc5fgsg6959f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

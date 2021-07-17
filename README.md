@@ -20,7 +20,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ![welcome](welcome.png)
-![accept TnC](Screenshot_20210714-101336.png)
+![accept TnC](images/Screenshot_20210714-101336.png)
 ![signup](Screenshot_20210705-150753.png)
 ![teacher or student](Screenshot_20210714-101356.png)
 ![signup](Screenshot_20210716-123820.png)

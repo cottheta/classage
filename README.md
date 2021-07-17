@@ -1,5 +1,4 @@
-<p style="color:blue; font-size:50px">classage</p>
-
+<h1>classage</h1>
 <h1>An Online Classroom App for teachers and students</h1>
 <h2>Features are:</h2>
 <li>Video Conferencing</li>

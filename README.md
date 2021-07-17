@@ -1,10 +1,17 @@
 # classage
 
-A new Flutter project.
+<h1>An Online Classroom App for teachers and students</h1>
+<h2>Features are:</h2>
+<li>Video Conferencing</li>
+<li>Create Pdf</li>
+<li>Share Assignments</li>
+<li>Take Quizes</li>
+<li>Group Messaging</li>
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made by flutter, firebase, jitsi meet.
 
 A few resources to get you started if this is your first Flutter project:
 

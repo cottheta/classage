@@ -1,4 +1,4 @@
-<h1>CLASSAGE An Online Classroom App for teachers and students</h1>
+<h1>Classage: A classroom App for teachers and students</h1>
 <h2>Features are:</h2>
 <li>Video Conferencing</li>
 <li>Create Pdf</li>
